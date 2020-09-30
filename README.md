@@ -1,2 +1,2 @@
-# Django-App
+# Django-Blogging App
 A simple Django Wesite consisting of the the typical Blog application 
